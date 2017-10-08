@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: SSH Key for Specific Host
 ---
 

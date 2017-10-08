@@ -1,11 +1,13 @@
-<head>
-<title>I've Heard It Both Ways</title>
-</head>
+---
+layout: default
+title: I've Heard It Both Ways
+---
 
-<body>
-This is my place for random crap. I was running on an OpenShift Wordpress
-instance, but with the retirement of OpenShift v2 I need to move things around.
-
-Full blog should hopefully be up here soon.
-
-</body>
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> %raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

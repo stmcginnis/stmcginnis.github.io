@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SSH Key for Specific Host
+title: Cinder Mitaka Design Summit Summary
 ---
 
 {{ page.title }}
@@ -77,7 +77,7 @@ that we will want to limit as much as possible.
 A great explanation of the microversions concept was written up by
 Sean Dague here:
 
-https://dague.net/2015/06/05/the-nova-api-in-kilo-and-beyond-2/
+[https://dague.net/2015/06/05/the-nova-api-in-kilo-and-beyond-2/](https://dague.net/2015/06/05/the-nova-api-in-kilo-and-beyond-2/)
 
 ### Experimental APIs
 
@@ -120,7 +120,7 @@ Some of the decisions were:
 - Volume related Nova bugs were highlighted. Cinder team will try to
   help triage and resolve some of those.
 
-  https://bugs.launchpad.net/nova/+bugs?field.tag=volumes
+  [https://bugs.launchpad.net/nova/+bugs?field.tag=volumes](https://bugs.launchpad.net/nova/+bugs?field.tag=volumes)
 
 
 ### Volume Manager Locks
@@ -175,7 +175,7 @@ all our problems as well as we had hoped.
 Based on the discussion, deadlines for the Mitaka cycle have been
 adjusted. See the mailing list post for full details:
 
-http://lists.openstack.org/pipermail/openstack-dev/2015-November/078215.html
+[http://lists.openstack.org/pipermail/openstack-dev/2015-November/078215.html](http://lists.openstack.org/pipermail/openstack-dev/2015-November/078215.html)
 
 ### Working Session Sprints
 
@@ -230,6 +230,6 @@ For the first time, all Design Summit sessions were live streamed and
 recorded for later playback. All sessions are available on the
 openstack-cinder YouTube channel:
 
-https://www.youtube.com/channel/UCJ8Koy4gsISMy0qW3CWZmaQ
+[https://www.youtube.com/channel/UCJ8Koy4gsISMy0qW3CWZmaQ](https://www.youtube.com/channel/UCJ8Koy4gsISMy0qW3CWZmaQ)
 
 A big thank you to Walter Boring for making this possible.

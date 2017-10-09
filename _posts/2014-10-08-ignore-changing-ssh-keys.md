@@ -15,20 +15,22 @@ log in to one of these instances to check on something.
 Since the instances are constantly changing, I was getting annoyed always
 getting the following prompt:
 
-> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-> @ WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! @
-> @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-> IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
-> Someone could be eavesdropping on you right now (man-in-the-middle attack)!
-> It is also possible that a host key has just been changed.
-> The fingerprint for the ECDSA key sent by the remote host is
-> af:92:a4:9c:ff:bf:0b:88:2a:62:90:c3:3e:2a:3f:74.
-> Please contact your system administrator.
-> Add correct host key in /home/smcginnis/.ssh/known_hosts to get rid of this message.
-> Offending ECDSA key in /home/smcginnis/.ssh/known_hosts:11
-> remove with: ssh-keygen -f "/home/smcginnis/.ssh/known_hosts" -R 10.125.202.186
-> ECDSA host key for 10.125.202.186 has changed and you have requested strict checking.
-> Host key verification failed.
+```
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@ WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED! @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the ECDSA key sent by the remote host is
+af:92:a4:9c:ff:bf:0b:88:2a:62:90:c3:3e:2a:3f:74.
+Please contact your system administrator.
+Add correct host key in /home/smcginnis/.ssh/known_hosts to get rid of this message.
+Offending ECDSA key in /home/smcginnis/.ssh/known_hosts:11
+remove with: ssh-keygen -f "/home/smcginnis/.ssh/known_hosts" -R 10.125.202.186
+ECDSA host key for 10.125.202.186 has changed and you have requested strict checking.
+Host key verification failed.
+```
 
 I would then have to run the ssh-keygen -f command to remove the entry, then
 reconnect and accept the new host key.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenStack: Using provider networks with isolated storage traffic
+title: OpenStack - Using provider networks with isolated storage traffic
 ---
 
 {{ page.title }}

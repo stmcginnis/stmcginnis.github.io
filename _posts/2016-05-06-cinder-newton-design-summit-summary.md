@@ -18,7 +18,7 @@ glory:
 
 https://www.youtube.com/channel/UCJ8Koy4gsISMy0qW3CWZmaQ
 
-###Replication Next Steps
+### Replication Next Steps
 Replication v2.1 was added in Mitaka. This was a first step in supporting
 a simplified use case. A few drivers were able to implement support for
 this in Mitaka, with a few already in the queue for support in Newton.
@@ -67,7 +67,7 @@ forward to meet other use cases without needing to introduce a wholly new
 concept. The mechanisms for managing groups will already be in place and a new
 type will be able to be added using existing plumbing.
 
-###Active/Active High Availability
+### Active/Active High Availability
 Work continues on HA. Gorka gave an overview of the work completed so far and
 the work left to do. We are still on the plan proposed at the Tokyo Summit,
 just a lot of work to get it all implemented. The biggest variations are around
@@ -75,7 +75,7 @@ the host name used for the “clustered” service nodes and the idea that we wi
 not attempt to do any sort of automatic cleanup for in-progress work that gets
 orphaned due to a node failure.
 
-###Mitaka Recap
+### Mitaka Recap
 Two sessions were devoted to going over what had changed in Mitaka. There were
 a lot of things introduced that developers and code reviewers now need to be
 aware of, so we wanted to spend some time educating everyone on these things.
@@ -109,7 +109,7 @@ Some additional patches are in progress to fix a few internal things like
 unversioned dicts that are passed around. This will help us make sure we don’t
 change one of those structures in an incompatible way.
 
-###Scalable Backup
+### Scalable Backup
 The backup service was decoupled from the c-vol service in Mitaka. This allows
 us to move backup to other nodes to offload that work. We can also scale out
 to allow more backup operations to work in parallel.
@@ -129,7 +129,7 @@ backend, one to Ceph backend, one to GCS, etc.).
 There are some implications for the HA work being done and how to do clean up.
 Those issues will need to be fully identified and worked through.
 
-###Testing Process
+### Testing Process
 We discussed our various available testing and how we can get better test
 coverage. We also want to optimize the testing process so everyone isn’t stuck
 running long running tests just to validate small changes.
@@ -163,7 +163,7 @@ also gives us full control over what is included.
 We also discussed plans for how to test API microversions and adding pylint
 testing to os-brick.
 
-###CinderClient and OpenStackClient
+### CinderClient and OpenStackClient
 A group of folks are working through a list of commands to make sure osc has
 functional parity with cinderclient. We need to have the same level of support
 in osc before we can even consider deprecating the cinder client CLI.
@@ -179,7 +179,7 @@ with the osc team to see what the options are for supporting something like
 this and decide what the best end user experience would be for this. It may be
 that we don’t deprecate python-cinderclient CLI just for this use case.
 
-###Unconference
+### Unconference
 Made midcycle plans based on survey results. (Has since changed since we ran in
 to complications with hotal availability)
 
@@ -187,7 +187,7 @@ Talked briefly about non-Cinder volume replication and how to recover during
 DR. Discussed whether all backends support managing existing volumes. How to
 discover available volumes. What to do with snapshots on manage.
 
-###Nova Cross Project
+### Nova Cross Project
 All about multiattach. Matt Riedman wrote up a nice recap of this discussion
 already:
 

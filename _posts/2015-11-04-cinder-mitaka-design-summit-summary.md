@@ -8,7 +8,7 @@ title: SSH Key for Specific Host
 
 <p class="meta">4 Nov 2015</p>
 
-###Will the Real Block Storage Service Please Stand Up
+### Will the Real Block Storage Service Please Stand Up
 
 Should Cinder be usable outside of a full OpenStack environment.
 There are several solutions out there for providing a Software
@@ -32,7 +32,7 @@ being able to use Cinder without something like Keystone. Based on
 this, it was decided we will spend some time looking into doing
 this, but at a lower priority than our core work.
 
-###Availability Zones in Cinder
+### Availability Zones in Cinder
 
 Recently it was highlighted that there are issues between AZs
 used in Cinder versus AZs used in Nova. When Cinder was originally
@@ -56,7 +56,7 @@ those present, the current “dirty fix” workaround is sufficient. If
 further input makes it clear that this is not enough, we can look
 in to one of the proposed alternatives to address those needs.
 
-###API Microversions
+### API Microversions
 
 Some projects, particularly Nova and Manila, have already started
 work on supporting API microversions. We plan on leveraging their
@@ -79,7 +79,7 @@ Sean Dague here:
 
 https://dague.net/2015/06/05/the-nova-api-in-kilo-and-beyond-2/
 
-###Experimental APIs
+### Experimental APIs
 
 Building on the work with microversions, we would use that to expose
 experimental APIs and make it explicit that they are experimental
@@ -95,7 +95,7 @@ anything in the works that needs this right now, so it may be delayed.
 The issue there being that if we wait to do it, when we actually do
 need to use it for something it won’t be ready to go.
 
-###Cinder Nova Interaction
+### Cinder Nova Interaction
 
 Great joint session with some of the Nova folks. Talked through some
 of the issues we’ve had with the interaction between Nova and Cinder
@@ -123,14 +123,14 @@ Some of the decisions were:
   https://bugs.launchpad.net/nova/+bugs?field.tag=volumes
 
 
-###Volume Manager Locks
+### Volume Manager Locks
 
 Covered in cross-project discussion on DLM. Will use tooz as an
 abstraction layer. Default will use local locks, so no change for
 those that don’t need it, but ability to plug in DLMs like
 zookeeper, etc., for those that need the DLM functionlity.
 
-###C-Vol Active/Active HA
+### C-Vol Active/Active HA
 
 Discussed the desire to be able to run the c-vol service in an a/a
 configuration. It can kind of be done now with things like pacemaker,
@@ -146,14 +146,14 @@ node installations it will just work without extra overhead. If A/A
 is desired, configuring tooz to use a distributed locking mechanism
 will provide locking across nodes without changes to the code.
 
-###ABC Work
+### ABC Work
 
 General agreement that our inheritance model is currently a mess
 and needs to be cleaned up. Need to work through it. Either collapse
 all into a common, simpler, driver base or make our inhertance model
 usable. Report capbilities rather than discover via inheritance?
 
-###Cinder Driver Interface
+### Cinder Driver Interface
 
 This is a common area of confusion for new driver developers and we
 have even found that folks involved with the project for some time
@@ -165,7 +165,7 @@ Eric has started documenting our driver requirements and is making
 great progress. This should also help to have a better reference as
 we work through the ABC and inheritance cleanup.
 
-###Driver Deadlines
+### Driver Deadlines
 
 General consensus that past restrictions were a good attempt to bring
 some order and focus to work during the cycle, but there were too
@@ -177,7 +177,7 @@ adjusted. See the mailing list post for full details:
 
 http://lists.openstack.org/pipermail/openstack-dev/2015-November/078215.html
 
-###Working Session Sprints
+### Working Session Sprints
 
 We spent the day Friday working through a long list of various topics to
 discuss. Some of the highlights from the discussion are:
@@ -217,7 +217,7 @@ discuss. Some of the highlights from the discussion are:
   help maintain it – help would be welcome.
 
 
-###Priorities for Mitaka
+### Priorities for Mitaka
 
 - Active/Active High Availability
 - Rolling upgrade support

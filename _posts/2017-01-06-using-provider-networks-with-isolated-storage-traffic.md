@@ -1,5 +1,5 @@
 ---
-title: OpenStack - Using provider networks with isolated storage traffic
+title: Using provider networks with isolated storage traffic
 categories:
   - OpenStack
 tags:

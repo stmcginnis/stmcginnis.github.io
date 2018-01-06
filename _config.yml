@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Sean McGinnis"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Cloudy storage tech working on open source technologies for Huawei"
   location         : "Here, there, everywhere"
   email            :

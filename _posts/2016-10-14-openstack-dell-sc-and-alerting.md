@@ -1,9 +1,13 @@
 ---
 title: OpenStack, Dell SC, and Alerting
+categories:
+  - OpenStack
+  - Storage
+tags:
+  - cinder
+  - monitoring
+  - storagecenter
 ---
-
-{{ page.title }}
-================
 
 <p class="meta">14 Oct 2016</p>
 

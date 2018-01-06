@@ -1,9 +1,11 @@
 ---
 title: OpenStack - Using provider networks with isolated storage traffic
+categories:
+  - OpenStack
+tags:
+  - networking
+  - cinder
 ---
-
-{{ page.title }}
-================
 
 <p class="meta">6 Jan 2017</p>
 

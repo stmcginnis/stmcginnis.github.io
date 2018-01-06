@@ -1,9 +1,11 @@
 ---
-title: Cinder Client - absolute-limits
+title: "Cinder Client - absolute-limits"
+categories:
+  - OpenStack
+tags:
+  - cinder
+  - cinderclient
 ---
-
-{{ page.title }}
-================
 
 <p class="meta">6 Feb 2017</p>
 

@@ -240,6 +240,7 @@ compress_html:
   ignore:
     envs: development
 
+author_profile: true
 
 # Defaults
 defaults:

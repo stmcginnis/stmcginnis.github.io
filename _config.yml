@@ -2,3 +2,14 @@ remote_theme: "mmistakes/minimal-mistakes"
 title: I've Heard It Both Ways
 description: Random thoughts and notes
 show_downloads: false
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true

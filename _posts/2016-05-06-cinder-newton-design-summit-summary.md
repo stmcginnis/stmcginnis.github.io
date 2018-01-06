@@ -1,11 +1,11 @@
 ---
 title: Cinder Newton Design Summit Summary
+categories:
+  - OpenStack
+tags:
+  - cinder
+  - "trip report"
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">6 May 2016</p>
 
 At the Design Summit in Austin, the Cinder team met over three days
 to go over a variety of topics. This is a general summary of the

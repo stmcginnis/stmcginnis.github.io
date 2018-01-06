@@ -1,11 +1,11 @@
 ---
 title: Cinder Mitaka Design Summit Summary
+categories:
+  - OpenStack
+tags:
+  - cinder
+  - "trip report"
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">4 Nov 2015</p>
 
 ### Will the Real Block Storage Service Please Stand Up
 

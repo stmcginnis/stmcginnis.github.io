@@ -1,11 +1,8 @@
 ---
 title: SSH Key for Specific Host
+tags:
+  - ssh
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">22 Sept 2014</p>
 
 This information is available elsewhere, but placing here for easy access.
 

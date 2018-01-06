@@ -1,11 +1,8 @@
 ---
 title: Ignore Changing SSH Keys
+tags:
+  - ssh
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">8 Oct 2014</p>
 
 In my lab I have a set of virtual machines that are automatically spun up for
 various tests. This setup is mostly hands off, but occasionally I do need to

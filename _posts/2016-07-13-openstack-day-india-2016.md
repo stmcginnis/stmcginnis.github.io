@@ -1,11 +1,11 @@
 ---
 title: OpenStack Day India 2016
+categories:
+  - OpenStack
+tags:
+  - OSD
+  - "trip report"
 ---
-
-{{ page.title }}
-================
-
-<p class="meta">13 Jul 2016</p>
 
 Last week I was able to attend the OpenStack Day India event in Bangalore,
 July 8-9. A big thank you to my employer, Dell, and NEC Technologies for making

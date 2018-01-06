@@ -7,8 +7,6 @@ tags:
   - cinderclient
 ---
 
-<p class="meta">6 Feb 2017</p>
-
 This is the first of what will hopefully be a series of posts covering the CLI
 commands available in the python-cinderclient package.
 

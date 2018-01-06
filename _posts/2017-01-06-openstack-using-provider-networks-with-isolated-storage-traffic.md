@@ -7,8 +7,6 @@ tags:
   - cinder
 ---
 
-<p class="meta">6 Jan 2017</p>
-
 OpenStack Neutron has a configuration option called provider networks that
 allows simpler connectivity to existing network infrastructure. This works
 great for my lab environment where I just want my VMs to connect directly to my

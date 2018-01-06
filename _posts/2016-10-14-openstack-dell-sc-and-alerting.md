@@ -2,14 +2,11 @@
 title: OpenStack, Dell SC, and Alerting
 categories:
   - OpenStack
-  - Storage
 tags:
   - cinder
   - monitoring
   - storagecenter
 ---
-
-<p class="meta">14 Oct 2016</p>
 
 I recently had a good discussion about the “errors” reported from Dell SC
 storage when using OpenStack. I hadn’t really thought much about it before, but

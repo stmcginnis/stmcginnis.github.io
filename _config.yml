@@ -1,4 +1,4 @@
-theme: jekyll-theme-primer
+remote_theme: "mmistakes/minimal-mistakes"
 title: I've Heard It Both Ways
 description: Random thoughts and notes
 show_downloads: false

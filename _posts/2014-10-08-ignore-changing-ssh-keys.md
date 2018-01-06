@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Ignore Changing SSH Keys
 ---
 

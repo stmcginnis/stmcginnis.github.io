@@ -1,5 +1,4 @@
 ---
-layout: default
 title: OpenStack - Using provider networks with isolated storage traffic
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: OpenStack Day India 2016
 ---
 

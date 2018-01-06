@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Cinder Client - absolute-limits
 ---
 

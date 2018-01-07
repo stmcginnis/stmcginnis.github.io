@@ -21,7 +21,7 @@ responsibility of being the representatives of all individual members of the Fou
 ### Running for the Board of Directors
 
 During the last few months there had been some discussion within the OpenStack Technical
-committee about visibility and communication between the TC, the Board of Directors, and
+Committee about visibility and communication between the TC, the Board of Directors, and
 general members of the technical community. There are joint meetings between the TC and
 Board, but not a lot of interactive discussion, and some talk of reducing the amount of
 joint meeting time between these groups.
@@ -38,7 +38,7 @@ forth between the two of us, we both decided to go for it.
 Chris has done some amazingly helpful work with providing weekly reports on the
 [TC activity](https://anticdent.org/tc-report-2017-in-review.html). We would both like to
 see the same kind of communication happening with Board activities. Either one, or both,
-of us plan to extending these kinds of updates if we are elected to the board.
+of us plan on extending these kinds of updates if we are elected to the board.
 
 ### Board Election Candidates
 
@@ -48,7 +48,7 @@ I will be very happy if either one of us is elected.
 But the good news is, there are really a lot of
 [great candidates](https://www.openstack.org/election/2018-individual-director-election/CandidateList)
 running in this election. There are a lot of smart and dedicated people running this time
-around, including a few of my coworkers, so I think no matter where thing end up, we will
+around, including a few of my coworkers, so I think no matter where things end up, we will
 have a good group of people representing individual members.
 
 So if you receive a ballot in the next couple of days, please take a few moments to read

@@ -21,7 +21,7 @@ platforms since Windows 7 and since ported and (partially) made open source a
 ago](https://azure.microsoft.com/blog/powershell-is-open-sourced-and-is-available-on-linux/).
 
 When I worked on Windows platforms regularly, I loved having the power of
-PowerShell (pun intended Chris). Having an object oriented, loosely types
+PowerShell (pun intended Chris). Having an object oriented, loosely typed
 command line with the entire .Net standard library behind it allowed for doing
 a lot of things on Windows that were far beyond the capabilities of the Command
 Prompt and a lot easier than firing up Visual Studio to throw together some

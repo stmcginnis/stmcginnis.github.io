@@ -1,5 +1,5 @@
 ---
-title: OpenStack Stein Release Goal Selection
+title: Stein Release Goal Selection
 categories:
   - OpenStack
 tags:

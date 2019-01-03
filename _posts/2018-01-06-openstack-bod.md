@@ -10,7 +10,7 @@ Starting this coming Monday, January 8, OpenStack Foundation members will be ask
 to vote in the
 [Individual Director election](https://www.openstack.org/election/2018-individual-director-election/).
 
-There are three groups that comprise the OpenStack Board of Directores - appointed
+There are three groups that comprise the OpenStack Board of Directors - appointed
 members from Platinum sponsors, elected members within the Gold level sponsors, and
 individual members from the community. This election will be to fill those 8 individual
 seats and is open to anyone that has registered as a Foundation community member.

@@ -76,9 +76,9 @@ focus on for the long term success of the community.
 Over the last several years I have worked in various areas of the community.
 I've been a PTL of a major component of most OpenStack clouds. I'm a core
 member of a few projects I feel are important to the overal success and health
-of the community. I've participated on the Technical Committee since spring of
-2017. I've also spent time pushing a broom and taking care of some areas that
-no one notices until they start to smell.
+of the community. I've participated on the Technical Committee since spring
+of 2017. I've also spent time pushing a broom and taking care of some areas
+that no one notices until they start to smell.
 
 I think whoever gets elected, they need to have that experience and be involved
 in the development of the code to be able to provide input on what is happening

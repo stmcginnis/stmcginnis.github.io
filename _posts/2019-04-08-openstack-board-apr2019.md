@@ -158,7 +158,7 @@ clear answer if the use of GPLv3 was acceptable in this situation, we plan on
 working through the legal aspects of this and regroup for further discussion at
 the face-to-face meeting in Denver.
 
-#### Bylaws Change
+### Bylaws Change
 
 A potential change in the wording of another bit of the bylaws was brought up,
 with the plan to actual vote on the change in Denver.

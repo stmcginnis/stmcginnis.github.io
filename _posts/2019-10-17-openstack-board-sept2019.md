@@ -71,7 +71,7 @@ though Prakash and I are Individual Members (which means we are there as
 representatives of the community, not as representatives of our company), my
 move to Dell now violated that clause.
 
-I think this was added to the bylaws back in the days were there were a few
+I think this was added to the bylaws back in the days where there were a few
 large corporate sponsors that had large teams of people dedicated to working on
 OpenStack. It was a safeguard to ensure no one company could overrun the
 Foundation based solely on their sheer number of people involved. That's not

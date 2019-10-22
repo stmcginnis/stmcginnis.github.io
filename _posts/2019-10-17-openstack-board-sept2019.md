@@ -6,7 +6,7 @@ tags:
   - "OSF Board"
 ---
 
-There was another OpenStack Foundatoin Board of Directors conference call on
+There was another OpenStack Foundation Board of Directors conference call on
 September 10, 2019. There were a couple of significant updates during this
 call. Well, at least one significant for the community, and one that was
 significant to me (more details below).

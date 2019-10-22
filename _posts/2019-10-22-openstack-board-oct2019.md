@@ -7,9 +7,9 @@ tags:
   - Airship
 ---
 
-Another OpenStack Foundation Board of Directors meeting was held October 22,
-2019. This meeting was added primarily as to discuss the Airship's request to
-for confirmation to become an official project.
+Another OpenStack Foundation Board of Directors meeting was held
+October 22, 2019. This meeting was added primarily as to discuss the Airship's
+request to for confirmation to become an official project.
 
 The [meeting
 agenda](https://wiki.openstack.org/wiki/Governance/Foundation/22October2019BoardMeeting)
@@ -24,9 +24,9 @@ with 1,125 unique developers from 165 different organizations.
 With commits over the last cycle, OpenStack is still one of the top three
 active open source projects out there, after the Linux kernel and Chromium.
 
-Jonathan also reiterated that the event structure will be different starting in
-2020. The first major event planned is in Vancouver, June 8. This will be more
-of a collaborative event, so expect the format to be different than past
+Jonathan also reiterated that the event structure will be different starting
+in 2020. The first major event planned is in Vancouver, June 8. This will be
+more of a collaborative event, so expect the format to be different than past
 Summits. I'm thinking more Project Teams Gathering than Summit.
 
 ### Airship Confirmation

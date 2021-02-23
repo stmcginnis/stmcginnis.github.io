@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Sean McGinnis"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Open source lead at Dell EMC in the Office of the CTO. Opinions are mine and do not reflect my employer... yada, yada, yada..."
+  bio              : "Staff Open Source Community Relations engineer. Part of the Tanzu community effort at VMware. Opinions are mine and do not reflect my employer... yada, yada, yada..."
   location         : "Minneapolis, MN"
   email            :
   uri              :

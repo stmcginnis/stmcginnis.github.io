@@ -87,7 +87,7 @@ analytics:
 author:
   name             : "Sean McGinnis"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Staff Open Source Community Relations engineer. Part of the Tanzu community effort at VMware. Opinions are mine and do not reflect my employer... yada, yada, yada..."
+  bio              : "SDEV III at AWS Linux working on Bottlerocket OS. I work for AWS Cloud and opinions are my own."
   location         : "Minneapolis, MN"
   email            :
   uri              :
